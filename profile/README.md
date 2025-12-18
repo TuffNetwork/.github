@@ -1,6 +1,6 @@
 # TuffNetwork
-Hello, Shuan/@SpeedSlicer here!
-Me and a couple of my friends decided to get together to build a bunch of game sites, Eaglercraft Ports/Clients, and more!
+Hello!
+We at Tuff Network are committed to bringing our best to the eaglercraft community. Check out our client and our server!
 
-
+Beta link:
 https://tuff.speedslicer.dev
